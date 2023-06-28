@@ -1,14 +1,34 @@
 <h1 align="center">Hi 👋, I'm Murita</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+</br>
 
 - 🔭 I’m currently working on **Sys Admin**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/murita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/murita" height="30" width="40" /></a>
-<a href="https://twitter.com/muritadb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/muritadb" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## Techs I'm studying with at the moment
+ 
+➤ JavaScript  
+➤ React.js  
+➤ TypeScript  
+➤ Tailwind  
+➤ Style Components  
+➤ Python  
+➤ Functional Programming
 
+
+To get my contact information: 
+
+
+const info = {<br/>
+> twitter: '[Twitter](https://twitter.com/muritadb)',<br/>
+> linkedIn: '[LinkedIn](https://www.linkedin.com/in/douglas-barbosaa/)'<br/>
+
+}
+
+
+## Credits
+
+Thanks to [Fernando Daciuk](https://gist.github.com/fdaciuk) and [Mario Souto](https://github.com/omariosouto) for courses and learning 🚀
+## License
+
+[MIT](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Douglas Murita
