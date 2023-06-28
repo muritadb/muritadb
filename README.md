@@ -2,8 +2,13 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 </br>
 
-- 🔭 I’m currently working on **Sys Admin**
+- 🔭 I’m currently working on **Sys Admin** migrating to **Software Engineer**
 
+## Technologies I have mastered
+➤ JavaScript  
+➤ CSS  
+➤ HTML  
+➤ SASS  
 
 ## Techs I'm studying with at the moment
  
@@ -25,6 +30,7 @@ const info = {<br/>
 
 }
 
+![Murita's github stats](https://github-readme-stats.vercel.app/api?username=muritadb&show_icons=true&count_private=true&theme=radical)
 
 ## Credits
 
