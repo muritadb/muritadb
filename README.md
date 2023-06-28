@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Sys Admin** migrating to **Software Engineer**
 
-## Technologies I have mastered
+## Technologies I have experience
 ➤ JavaScript  
 ➤ CSS  
 ➤ HTML  
@@ -29,7 +29,13 @@ const info = {<br/>
 > linkedIn: '[LinkedIn](https://www.linkedin.com/in/douglas-barbosaa/)'<br/>
 
 }
-#
+## Top Projects 
+<ul>
+ <li><a href="https://muritadb.github.io/clock-in-JS/">clock-in-JS</a></li>
+ <li><a href="https://muritadb.github.io/carousel-js/">carousel-js</a></li>
+ <li><a href="https://aluratube-is8d-git-main-douglasmurit.vercel.app/">AluraTube</a></li>
+ <li><a href="https://quiz-murita.netlify.app/">Quiz App</a></li>
+</ul>
 
 <p align="center">
 <a href="https://github.com/muritadb">
