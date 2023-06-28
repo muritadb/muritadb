@@ -31,4 +31,4 @@ const info = {<br/>
 Thanks to [Fernando Daciuk](https://gist.github.com/fdaciuk) and [Mario Souto](https://github.com/omariosouto) for courses and learning 🚀
 ## License
 
-[MIT](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Douglas Murita
+[MIT](https://github.com/muritadb/muritadb/blob/main/MIT-LICENSE.md) &copy; Douglas Murita
