@@ -6,9 +6,9 @@
 
 ## Technologies I have experience
 ➤ JavaScript  
-➤ CSS  
-➤ HTML  
-➤ SASS  
+➤ CSS   
+➤ SASS 
+➤ HTML 
 
 ## Techs I'm studying with at the moment
  
@@ -18,7 +18,10 @@
 ➤ Tailwind  
 ➤ Style Components  
 ➤ Python  
+➤ Java
+➤ Spring Boot
 ➤ Functional Programming
+➤ Object-oriented programming
 
 
 To get my contact information: 
