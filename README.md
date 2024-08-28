@@ -18,10 +18,10 @@
 ➤ Tailwind  
 ➤ Style Components  
 ➤ Python  
-➤ Java
-➤ Spring Boot
-➤ Functional Programming
-➤ Object-oriented programming
+➤ Java 
+➤ Spring Boot 
+➤ Functional Programming 
+➤ Object-oriented programming 
 
 
 To get my contact information: 
