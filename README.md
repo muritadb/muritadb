@@ -37,7 +37,7 @@ const info = {<br/>
 }
 ## Top Projects 
 <ul>
- <li><a href="https://muritadb.github.io/clock-in-JS/">clock-in-JS</a></li>
+ <li><a href="https://take-items.netlify.app/">Guarda Coisas</a></li>
  <li><a href="https://muritadb.github.io/carousel-js/">carousel-js</a></li>
  <li><a href="https://aluratube-is8d-git-main-douglasmurit.vercel.app/">AluraTube</a></li>
  <li><a href="https://quiz-murita.netlify.app/">Quiz App</a></li>
