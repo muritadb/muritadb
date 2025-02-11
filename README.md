@@ -1,34 +1,37 @@
 <h1 align="center">Hi 👋, I'm Murita</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate software developer from Brazil</h3>
 </br>
 
-- 🔭 I’m currently working on **Sys Admin** migrating to **Software Engineer**
+- 🔭 I’m currently working on **Front-end Developer** 
 
 ## Technologies I have experience
 ➤ JavaScript  
+➤ NODEJS  | TYPESCRIPT  
+➤ JAVA  
+➤ SPRING BOOT  
+➤ SQL   
+➤ SASS   
 ➤ CSS   
-➤ SASS 
-➤ HTML 
+➤ HTML   
 
 ## Techs I'm studying with at the moment
  
-➤ JavaScript  
 ➤ React.js  
 ➤ TypeScript  
 ➤ Tailwind  
 ➤ Style Components  
-➤ Python  
-➤ Java 
-➤ Spring Boot 
-➤ Functional Programming 
-➤ Object-oriented programming 
+➤ NODEJS  
+➤ Java  
+➤ Spring Boot  
+➤ Functional Programming  
+➤ Object-oriented programming  
 
 
 To get my contact information: 
 
 
 const info = {<br/>
-> twitter: '[Twitter](https://twitter.com/muritadb)',<br/>
+> mail: '[Entre em contato](mailto:seunome@exemplo.com)',<br/>
 > linkedIn: '[LinkedIn](https://www.linkedin.com/in/douglas-barbosaa/)'<br/>
 
 }
@@ -42,7 +45,7 @@ const info = {<br/>
 
 <p align="center">
 <a href="https://github.com/muritadb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muritadb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muritadb&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muritadb&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
